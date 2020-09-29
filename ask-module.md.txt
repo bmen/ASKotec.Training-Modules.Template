@@ -1,0 +1,26 @@
+
+
+authors:
+
+
+* Name of the author
+
+
+release: v.1.0
+
+tools:
+
+
+* Name of the product (q: 1) 
+
+* Name of the product (q: 1)  - new-key is set and has value 3 
+
+
+materials:
+
+
+* Name of the product (q: 1)
+
+* Name of the product (q: 1)
+
+
